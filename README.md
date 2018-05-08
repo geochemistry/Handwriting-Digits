@@ -334,3 +334,4 @@ print("test accuracy %g"%accuracy.eval(feed_dict={x: mnist.test.images, y_: mnis
     step 9500, training accuracy 1
     test accuracy 0.9901
     
+可见识别度已经超过了99%
